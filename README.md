@@ -1,8 +1,7 @@
 # Olá! Eu sou o Emanoel👋
 
-- 🧑🏻‍💻 Engenheiro de Software
-- 👩🏻‍❤️‍👨🏻 Namorado da Evelyn Martins
-- CEO: luxeglowbr.shop
+- 💻 Engenheiro de Software;
+- 🧑🏻‍💻 Focado em Desenvolvimento Mobile e WEB;
 
 <div>
   <a href="https://github.com/emanoelsants">
