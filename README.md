@@ -1,7 +1,7 @@
-# Olá! Eu sou o Emanoel👋
+# Hi! I'm Emanoel Felix👋
 
-- 💻 Engenheiro de Software;
-- 🧑🏻‍💻 Focado em Desenvolvimento Mobile e WEB;
+- 💻 Software Engineer;
+- 🧑🏻‍💻 Focused on Web Development;
 
 <div>
   <a href="https://github.com/emanoelsants">
@@ -21,5 +21,16 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
-##
+## 🌱 Currently Learning
+- Enhancing skills in **system architecture** and **advanced design patterns**;
+- Expanding knowledge in **Docker**, **CI/CD**, and **cloud services**;
+- Building **full-stack applications** that integrate **React** and **Node.js** efficiently.
 
+## 📚 Featured Projects
+- **[FDS Tech - Technology School](https://fdstech.vercel.app):** A modern platform for showcasing courses and information for a technology school.
+- **[Dashboard](https://dashboard-nu-hazel.vercel.app):** An interactive dashboard for data visualization and analysis with dynamic charts and API integration.
+
+## 💬 Let's Connect
+Feel free to explore my repositories, collaborate on projects, or discuss opportunities. I'm always open to new challenges!  
+
+📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/emanoel-felix-77b055274) or [Email](felixemanoel14@gmail.com).
